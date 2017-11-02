@@ -1,0 +1,11 @@
+body {
+    color: #515252;
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+  }
+  
+  @media (min-width: 1024px) {
+    nav.navbar.bootsnav li.dropdown ul.dropdown-menu>li>a {
+      border-bottom: 0;
+    }
+  }
+  
